@@ -1,17 +1,1 @@
-{
-  "usuarios": [
-    {
-      "username": "admin",
-      "password": "admin"
-    },
-    {
-      "username": "usuario1",
-      "password": "1234"
-    },
-    {
-      "username": "usuario2",
-      "password": "1234"
-    }
-  ]
-}
 
